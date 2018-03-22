@@ -223,13 +223,13 @@
         <exetype>2</exetype>
         <functionname></functionname>
         <codestring></codestring>
-        <whoName>obj_RisingFloor</whoName>
+        <whoName>self</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>open</string>
+            <string>obj_RisingFloor.open</string>
           </argument>
           <argument>
             <kind>0</kind>
