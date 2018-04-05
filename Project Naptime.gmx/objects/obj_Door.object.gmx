@@ -57,7 +57,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>3</string>
           </argument>
         </arguments>
       </action>
@@ -81,7 +81,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>3</string>
           </argument>
         </arguments>
       </action>
@@ -177,7 +177,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>3</string>
           </argument>
         </arguments>
       </action>
@@ -201,7 +201,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>open</string>
+            <string>1</string>
           </argument>
         </arguments>
       </action>
@@ -309,7 +309,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>3</string>
           </argument>
         </arguments>
       </action>
@@ -333,7 +333,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>closed</string>
+            <string>2</string>
           </argument>
         </arguments>
       </action>
@@ -373,7 +373,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>open</string>
+            <string>1</string>
           </argument>
           <argument>
             <kind>4</kind>
@@ -457,7 +457,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>closed</string>
+            <string>2</string>
           </argument>
           <argument>
             <kind>4</kind>
