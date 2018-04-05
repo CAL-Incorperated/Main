@@ -32,5 +32,8 @@
     <frame index="9">images\spr_Door_9.png</frame>
     <frame index="10">images\spr_Door_10.png</frame>
     <frame index="11">images\spr_Door_11.png</frame>
+    <frame index="12">images\spr_Door_12.png</frame>
+    <frame index="13">images\spr_Door_13.png</frame>
+    <frame index="14">images\spr_Door_14.png</frame>
   </frames>
 </sprite>
