@@ -9,8 +9,6 @@
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_Block</sprite>
-    <sprites name="Player sprites"/>
-    <sprites name="Dog sprites"/>
     <sprite>sprites\spr_Switch</sprite>
     <sprites name="Door sprites">
       <sprite>sprites\spr_Door</sprite>
