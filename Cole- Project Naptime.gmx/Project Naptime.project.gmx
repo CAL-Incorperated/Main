@@ -9,6 +9,19 @@
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_Block</sprite>
+    <sprites name="Player sprites">
+      <sprite>sprites\spr_Player_idle</sprite>
+      <sprite>sprites\spr_Player_jumpRight</sprite>
+      <sprite>sprites\spr_Player_jumpLeft</sprite>
+      <sprite>sprites\spr_Player_left</sprite>
+      <sprite>sprites\spr_Player_right</sprite>
+    </sprites>
+    <sprites name="Dog sprites">
+      <sprite>sprites\spr_Dog_idle_1</sprite>
+      <sprite>sprites\spr_Dog_idle_2</sprite>
+      <sprite>sprites\spr_Dog_left</sprite>
+      <sprite>sprites\spr_Dog_right</sprite>
+    </sprites>
     <sprite>sprites\spr_Switch</sprite>
     <sprites name="Door sprites">
       <sprite>sprites\spr_Door</sprite>
@@ -25,7 +38,6 @@
       <sprite>sprites\spr_loweringFloor</sprite>
     </sprites>
     <sprite>sprites\spr_Heart</sprite>
-    <sprite>sprites\spr_Block2x2</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -45,10 +57,8 @@
       <object>objects\obj_FloorFall</object>
     </objects>
     <object>objects\obj_HealthandLives</object>
-    <object>objects\obj_Block2x2</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\Level_3</room>
     <room>rooms\room1</room>
     <room>rooms\rm_Test</room>
     <room>rooms\room2</room>
