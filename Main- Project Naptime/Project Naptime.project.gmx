@@ -9,6 +9,7 @@
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_Block</sprite>
+    <sprite>sprites\spr_fallingBlock</sprite>
     <sprites name="Player sprites">
       <sprite>sprites\spr_Player_idle</sprite>
       <sprite>sprites\spr_Player_jumpRight</sprite>
@@ -38,7 +39,6 @@
       <sprite>sprites\spr_loweringFloor</sprite>
     </sprites>
     <sprite>sprites\spr_Heart</sprite>
-    <sprite>sprites\spr_Block2x2</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -49,6 +49,7 @@
     <object>objects\obj_Nightmare</object>
     <object>objects\obj_Door</object>
     <object>objects\obj_risingFloor</object>
+    <object>objects\obj_fallingBlock</object>
     <objects name="Door Switches">
       <object>objects\obj_DoorOpen</object>
       <object>objects\obj_DoorClose</object>
@@ -57,14 +58,14 @@
       <object>objects\obj_FloorRise</object>
       <object>objects\obj_FloorFall</object>
     </objects>
+    <object>objects\obj_BlockFall</object>
     <object>objects\obj_HealthandLives</object>
-    <object>objects\obj_Block2x2</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\Level_3</room>
-    <room>rooms\room1</room>
+    <room>rooms\Level_1</room>
+    <room>rooms\Level_2</room>
     <room>rooms\rm_Test</room>
-    <room>rooms\room2</room>
+    <room>rooms\room4</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
