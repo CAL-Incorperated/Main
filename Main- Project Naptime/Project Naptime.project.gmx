@@ -60,6 +60,7 @@
       <sprite>sprites\spr_platform_bottom_right</sprite>
       <sprite>sprites\spr_platform_middle</sprite>
     </sprites>
+    <sprite>sprites\spr_point</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -101,12 +102,14 @@
     </objects>
     <object>objects\obj_BlockFall</object>
     <object>objects\obj_HealthandLives</object>
+    <object>objects\object29</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Level_1</room>
     <room>rooms\Level_2</room>
     <room>rooms\rm_Test</room>
     <room>rooms\room4</room>
+    <room>rooms\dsewrastrgh</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
