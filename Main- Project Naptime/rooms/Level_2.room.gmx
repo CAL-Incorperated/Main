@@ -6429,6 +6429,11 @@
     <instance objName="obj_Block" x="4992" y="544" name="inst_CB7637D3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Door" x="4864" y="608" name="inst_80049EB4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DoorOpen" x="4832" y="640" name="inst_5C1C4288" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_FloorRise" x="1824" y="672" name="inst_5CF3B746" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_risingFloor" x="1856" y="704" name="inst_7D785755" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_risingFloor" x="1920" y="704" name="inst_B38BB854" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_risingFloor" x="1984" y="704" name="inst_9D50CF60" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_risingFloor" x="2048" y="704" name="inst_49F385EB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
