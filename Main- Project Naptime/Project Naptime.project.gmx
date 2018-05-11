@@ -38,11 +38,52 @@
       <sprite>sprites\spr_risenFloor</sprite>
       <sprite>sprites\spr_loweringFloor</sprite>
     </sprites>
+    <sprites name="Ground sprites">
+      <sprite>sprites\spr_block_ground_middle</sprite>
+      <sprite>sprites\spr_block_ground_top_left</sprite>
+      <sprite>sprites\spr_block_ground_top_right</sprite>
+      <sprite>sprites\spr_block_ground_bottom_right</sprite>
+      <sprite>sprites\spr_block_ground_bottom_left</sprite>
+      <sprite>sprites\spr_block_ground_top_middle1</sprite>
+      <sprite>sprites\spr_block_ground_top_middle2</sprite>
+      <sprite>sprites\spr_block_ground_top_middle3</sprite>
+      <sprite>sprites\spr_block_ground_top_middle4</sprite>
+    </sprites>
     <sprite>sprites\spr_Heart</sprite>
+    <sprites name="Platform sprites">
+      <sprite>sprites\spr_platform_top_left</sprite>
+      <sprite>sprites\spr_platform_top_right</sprite>
+      <sprite>sprites\spr_platform_top_middle</sprite>
+      <sprite>sprites\spr_platform_middle_left</sprite>
+      <sprite>sprites\spr_platform_middle_right</sprite>
+      <sprite>sprites\spr_platform_bottom_left</sprite>
+      <sprite>sprites\spr_platform_bottom_right</sprite>
+      <sprite>sprites\spr_platform_middle</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
+    <objects name="Ground Blocks">
+      <object>objects\obj_block_middle</object>
+      <object>objects\obj_block_ground_top_left</object>
+      <object>objects\obj_block_ground_top_right</object>
+      <object>objects\obj_block_ground_top_middle1</object>
+      <object>objects\obj_block_ground_top_middle2</object>
+      <object>objects\obj_block_ground_top_middle3</object>
+      <object>objects\obj_block_ground_top_middle4</object>
+      <object>objects\obj_block_ground_left</object>
+      <object>objects\obj_block_ground_right</object>
+    </objects>
+    <objects name="Platform Blocks">
+      <object>objects\obj_block_platform_top_left</object>
+      <object>objects\obj_block_platform_top_right</object>
+      <object>objects\obj_block_platform_top_middle</object>
+      <object>objects\obj_block_platform_middle_left</object>
+      <object>objects\obj_block_platform_middle_right</object>
+      <object>objects\obj_block_platform_bottom_left</object>
+      <object>objects\obj_block_platform_bottom_right</object>
+    </objects>
     <object>objects\obj_Player</object>
     <object>objects\obj_Block</object>
     <object>objects\obj_Dog</object>
