@@ -6,7 +6,6 @@
   <NewExtensions/>
   <sounds name="sound">
     <sound>sound\snd_Nightmare</sound>
-    <sound>sound\snd_Start</sound>
     <sound>sound\snd_Levels</sound>
   </sounds>
   <sprites name="sprites">
@@ -77,6 +76,7 @@
   <backgrounds name="background">
     <background>background\bg_Start</background>
     <background>background\bg_Story</background>
+    <background>background\bg_logo</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
@@ -132,8 +132,10 @@
     <object>objects\obj_Level_Music</object>
     <object>objects\obj_ColesWatch</object>
     <object>objects\obj_fakeWall</object>
+    <object>objects\obj_intro</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\Intro</room>
     <room>rooms\Start_Menu</room>
     <room>rooms\Story_Room</room>
     <room>rooms\Tutorial</room>

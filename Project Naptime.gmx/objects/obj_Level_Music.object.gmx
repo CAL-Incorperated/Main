@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>snd_Start</sound>
+            <sound>snd_Nightmare</sound>
           </argument>
         </arguments>
       </action>
@@ -59,7 +59,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>snd_Start</sound>
+            <sound>snd_Nightmare</sound>
           </argument>
         </arguments>
       </action>
