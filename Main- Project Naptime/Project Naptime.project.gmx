@@ -61,6 +61,7 @@
       <sprite>sprites\spr_platform_middle</sprite>
     </sprites>
     <sprite>sprites\spr_point</sprite>
+    <sprite>sprites\spr_end</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -103,8 +104,11 @@
     <object>objects\obj_BlockFall</object>
     <object>objects\obj_HealthandLives</object>
     <object>objects\object29</object>
+    <object>objects\obg_end</object>
+    <object>objects\tutorial_text</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\Instructions</room>
     <room>rooms\Level_1</room>
     <room>rooms\Level_2</room>
     <room>rooms\rm_Test</room>

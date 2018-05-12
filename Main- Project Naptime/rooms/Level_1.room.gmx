@@ -171,7 +171,7 @@
     <instance objName="obj_Block" x="352" y="768" name="inst_A661168B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Block" x="608" y="768" name="inst_36E4F9FB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Dog" x="480" y="768" name="inst_56F3BDA8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_FloorRise" x="896" y="768" name="inst_9D576B8D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_FloorRise" x="864" y="768" name="inst_9D576B8D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_risingFloor" x="928" y="800" name="inst_8EBF3A35" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_risingFloor" x="992" y="800" name="inst_36CA3E21" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_risingFloor" x="1056" y="800" name="inst_A27FDB4B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
